@@ -1,11 +1,7 @@
-  /$$$$$$  /$$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$  /$$   /$$  /$$$$$$ 
- /$$__  $$| $$__  $$ /$$__  $$ /$$__  $$ /$$__  $$| $$  | $$ /$$__  $$
-| $$  \__/| $$  \ $$| $$  \ $$| $$  \__/| $$  \__/| $$  | $$| $$  \__/
-| $$      | $$$$$$$/| $$$$$$$$|  $$$$$$ |  $$$$$$ | $$  | $$|  $$$$$$ 
-| $$      | $$__  $$| $$__  $$ \____  $$ \____  $$| $$  | $$ \____  $$
-| $$    $$| $$  \ $$| $$  | $$ /$$  \ $$ /$$  \ $$| $$  | $$ /$$  \ $$
-|  $$$$$$/| $$  | $$| $$  | $$|  $$$$$$/|  $$$$$$/|  $$$$$$/|  $$$$$$/
- \______/ |__/  |__/|__/  |__/ \______/  \______/  \______/  \______/ 
-                                                                      
-                                                                      
-================================================================================
+Crassus is a stock analysis application.
+ 
+You can plot standard market indicators with the price of a stock over time to help you analyze a particular stock.
+
+You can tell Crassus to alert you when certain conditions are met, which would allow you to browse the internet or do something else on your computer while trading instead of keeping your eyes on a stock and waiting for a condition to happen.
+
+See the userguide.pdf for more detail
